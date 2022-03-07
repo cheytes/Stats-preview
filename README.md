@@ -20,7 +20,7 @@ I changed my process of design and went with mobile first. This challenge was fu
 
 ### Screenshot
 
-!(images\Capture Stats-Preview-Card.JPG)
+![My solution](images\Capture Stats-Preview-Card.JPG)
 
 
 ### Links
