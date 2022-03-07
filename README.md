@@ -20,12 +20,12 @@ I changed my process of design and went with mobile first. This challenge was fu
 
 ### Screenshot
 
-![](images\Capture Stats-Preview-Card.JPG)
+!(images\Capture Stats-Preview-Card.JPG)
 
 
 ### Links
 
-- Live Site URL: [Stats Preview Card](https://your-live-site-url.com)
+- Live Site URL: [Stats Preview Card](https://cheytes.github.io/Stats-preview/)
 
 ## My process
 
@@ -47,7 +47,7 @@ I changed my process of design and went with mobile first. This challenge was fu
 - How to properly use units
 
 ` .percent, .ems {
-    width: 10(px, ems, %)`
+    width: 10(px, ems, %)}`
 
 ### Continued development
 
